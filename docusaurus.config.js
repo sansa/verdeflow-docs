@@ -2,13 +2,14 @@
 const config = {
   title: 'VerdeFlow Docs',
   tagline: 'Commit-aware energy profiling for APIs',
-  url: 'https://example.com',
-  baseUrl: '/',
+  url: 'https://sansa.github.io',
+  baseUrl: '/verdeflow-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'verdeflow', // Usually your GitHub org/user name.
+  organizationName: 'LUT Sustainable Software Engineering', // Usually your GitHub org/user name.
   projectName: 'verdeflow-docs', // Usually your repo name.
+  deploymentBranch: 'gh-pages',
   presets: [
     [
       'classic',
