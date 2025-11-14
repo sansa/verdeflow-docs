@@ -7,7 +7,7 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'LUT Sustainable Software Engineering', // Usually your GitHub org/user name.
+  organizationName: 'sansa', // Usually your GitHub org/user name.
   projectName: 'verdeflow-docs', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   presets: [
